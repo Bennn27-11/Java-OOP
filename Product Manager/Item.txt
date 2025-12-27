@@ -1,0 +1,60 @@
+IV0010;Black Pen;SPL005;4.1;5.9
+IV0020;Blue Pen;SPL005;4.1;5.9
+IV0030;Red Pen;SPL005;4.1;5.9
+IV0040;Green Pen;SPL015;4.1;5.9
+IV0050;Mechanical Pencil;SPL015;3.5;4.8
+IV0060;HB Pencil;SPL015;3.0;4.5
+IV0070;Sticky Note;SPL075;2.7;3.9
+IV0080;Yellow Note;SPL075;2.5;3.5
+IV0090;Highlighter Yellow;SPL025;2.8;4.2
+IV0100;Highlighter Blue;SPL025;2.9;4.3
+IV0110;Eraser White;SPL035;0.5;0.8
+IV0120;Eraser Black;SPL035;0.5;0.85
+IV0130;Plastic Ruler 15cm;SPL055;0.3;0.9
+IV0140;Plastic Ruler 30cm;SPL055;0.4;1.1
+IV0150;Calculator Basic;SPL065;40.0;53.0
+IV0160;Calculator Pro;SPL065;55.0;75.0
+IV0170;Blue Marker Pen;SPL045;2.9;4.2
+IV0180;Correction Pen;SPL045;2.5;4.0
+IV0190;Sticky Note Large;SPL075;3.0;4.2
+IV0200;Sticky Note Small;SPL075;2.2;3.5
+IV0210;Highlighter Pink;SPL025;2.6;4.0
+IV0220;Highlighter Green;SPL025;2.6;4.0
+IV0230;Eraser Mini;SPL035;0.4;0.7
+IV0240;Pencil 2B;SPL015;2.0;3.0
+IV0250;Ball Pen Red;SPL005;3.5;5.0
+IV0260;Ball Pen Blue;SPL005;3.5;5.0
+IV0270;Ball Pen Green;SPL005;3.5;5.0
+IV0280;Gel Pen Black;SPL005;4.0;5.8
+IV0290;Gel Pen Blue;SPL005;4.0;5.8
+IV0300;Gel Pen Red;SPL005;4.0;5.8
+IV0310;Sticky Note Neon;SPL075;2.8;3.9
+IV0320;Sticky Note Cube;SPL075;2.9;4.0
+IV0330;Mini Ruler;SPL055;0.2;0.7
+IV0340;Flexible Ruler;SPL055;0.6;1.0
+IV0350;Scientific Calculator;SPL065;60.0;80.0
+IV0360;Pocket Calculator;SPL065;25.0;35.0
+IV0370;Correction Tape;SPL005;2.1;3.5
+IV0380;Whiteboard Marker Pen;SPL045;3.2;4.9
+IV0390;Red Pen Thick;SPL005;4.2;6.0
+IV0400;Blue Pen Thick;SPL005;4.2;6.0
+IV0410;Note Pad;SPL075;2.5;3.7
+IV0420;Note Pad Spiral;SPL075;2.7;3.9
+IV0430;Highlighter Thin;SPL025;2.3;3.8
+IV0440;Highlighter Thick;SPL025;2.9;4.5
+IV0450;Eraser Color;SPL035;0.6;0.9
+IV0460;HB Pencil Black;SPL015;3.2;4.6
+IV0470;2B Pencil;SPL015;2.8;4.2
+IV0480;Sticky Note Grid;SPL075;2.6;3.8
+IV0490;Sticky Note Tabs;SPL075;2.5;3.5
+IV0500;Sticky Note Star;SPL075;2.4;3.5
+IV0510;Sticky Note Heart;SPL075;2.3;3.4
+IV0520;Pen Refill Blue;SPL005;1.2;2.5
+IV0530;Pen Refill Black;SPL005;1.2;2.5
+IV0540;Pen Refill Red;SPL005;1.2;2.5
+IV0550;Ruler Transparent;SPL055;0.5;1.0
+IV0560;Ruler Wooden;SPL055;0.6;1.2
+IV0570;Eraser Soft;SPL035;0.4;0.75
+IV0580;Eraser Hard;SPL035;0.6;0.95
+IV0590;Scientific Calculator Plus;SPL065;70.0;95.0
+IV0600;Sticky Note Rainbow;SPL075;3.0;4.5

@@ -1,0 +1,14 @@
+Sales Manager;ID011;Kang Song Yang;Soya@123;123;test@gmail.com
+Purchase Manager;ID019;KahHeng;Bc1127@bc;123;test@gmail.com
+Administrator;ID027;Jason Lai Kwang Xi;Kxi6!4723;01110272128;tp080522@mail.apu.edu.my
+Inventory Manager;ID033;Tiansheng;TS_Chen1;123;test@gmail.com
+Finance Manager;ID040;Felix;Pewdiep1e!;123;test@gmail.com
+Administrator;ID041;Kxi Document;P@ssw0rd;01110272128;tp080522@mail.apu.edu.my
+Sales Manager;ID042;User2;P@ssw0rd;0123456789;testuser@mail.edu.my
+Finance Manager;ID043;User5;P@ssw0rd;0123456789;testuser@mail.edu.my
+Inventory Manager;ID044;User4;P@ssw0rd;0123456789;testuser@mail.edu.my
+Sales Manager;1;Kang Song Yang;1;123;test@gmail.com
+Purchase Manager;2;KahHeng;2;123;test@gmail.com
+Administrator;3;Jason Lai Kwang Xi;3;01110272128;tp080522@mail.apu.edu.my
+Inventory Manager;4;Tiansheng;4;123;test@gmail.com
+Finance Manager;5;Felix;5;123;test@gmail.com
